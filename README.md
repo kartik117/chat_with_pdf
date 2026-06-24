@@ -1,5 +1,8 @@
 # Chat with PDF
 
+<img width="2356" height="1260" alt="image" src="https://github.com/user-attachments/assets/c0f6cb0e-9f86-4525-b202-ad98f7c9b624" />
+
+
 A Streamlit app that lets you upload a PDF and ask questions about its content. It uses [embedchain](https://github.com/embedchain/embedchain) to chunk and embed the PDF into a local vector database (Chroma), then answers your questions using a locally-running [Ollama](https://ollama.com/) LLM (`llama3.2`) — no API keys or cloud costs required.
 
 ## Features
